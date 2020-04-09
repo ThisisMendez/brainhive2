@@ -13,7 +13,7 @@ class App extends Component {
       summary: "How real hackers get it so right",
       link: 'https://www.wired.com/2016/07/real-hackers-behind-mr-robot-get-right/',
       resourceType: 'Article',
-      datePublished: '1943-10-03.00:00:00z',
+      datePublished: '2019-10-03.00:00:00z',
       videoLength: null,
       timeToComplete: 10,
       rating: 5,
